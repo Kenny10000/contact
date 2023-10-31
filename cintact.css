@@ -1,0 +1,20 @@
+
+div.background {
+    background-size: cover;
+    background-position: center;
+    width: 1000px;
+    height: 2000px;
+    background: url(image/banks1.jpg) no-repeat;
+  }
+  
+  div.transbox {
+    background-color: blue;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
+  
+  div.transbox {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+  }
